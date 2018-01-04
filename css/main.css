@@ -8,7 +8,6 @@ html {
   box-sizing: border-box;
   line-height: 1.5;
   background-color: #dbd6cf;
-  border: 3px solid #595652;
 }
 
 *, *::before, *::after {
@@ -19,7 +18,7 @@ h1 {
   font-family: Bevan, serif;
   color: #fff;
   text-align: center;
-  margin-left: 0;
+  margin-top: 0;
 }
 
 .nav {
@@ -57,7 +56,7 @@ body {
 header {
   background-color: #79756f;
   margin: 0;
-  padding: 0;
+  padding: .6em 0;
 }
 
 nav {
