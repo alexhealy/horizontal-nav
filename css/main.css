@@ -56,7 +56,9 @@ body {
 header {
   background-color: #79756f;
   margin: 0;
-  padding: .6em 0;
+  padding: .5em 0;
+  border-top: .2em solid #595652;
+  border-bottom: .2em solid #595652;
 }
 
 nav {
